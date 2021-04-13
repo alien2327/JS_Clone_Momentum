@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.form, .greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
